@@ -2,10 +2,9 @@
 
 This repository serves as a comprehensive guide for individuals aiming to master the C programming language. With a structured learning approach, hands-on projects, interactive examples, problem-solving exercises, and a wealth of additional resources, it caters to learners at all levels. Whether you're a novice or seasoned programmer, this repository offers a pathway to proficiency in C programming, covering application development, system programming, and algorithmic problem-solving. Join our community today and embark on your journey to becoming a proficient C programmer!
 
-
 **Repository Description:**
 
-Welcome to our comprehensive C programming repository, designed to take you from a beginner to an advanced level with practical, hands-on projects! Whether you're just starting your programming journey or looking to deepen your C skills, this repository has something for everyone.
+Comprehensive C programming repository, designed to take you from a beginner to an advanced level with practical, hands-on projects! Whether you're just starting your programming journey or looking to deepen your C skills, this repository has something for everyone.
 
 **Key Features:**
 

@@ -1,0 +1,78 @@
+## How to Write Your First Program in C?
+
+To write your first program in C, follow these steps:
+
+1. **Open a Text Editor**: Use any text editor like Notepad, Sublime Text,VSCodium or Visual Studio Code to write your C program.
+
+2. **Write the Code**: Start by writing the C code. A simple "Hello, World!" program is a common choice for beginners.
+
+Here's an example:
+
+   ```c
+   #include <stdio.h>
+
+   int main() {
+       printf("Hello, World!\n");
+       return 0;
+   }
+   ```
+
+1. **Save the File**: Save your C program with a `.c` extension, such as `hello.c`.
+
+   1. **Compile the Program**: Open a terminal or command prompt, navigate to the directory where your program is saved, and compile it using a `C` compiler.
+
+   For example, if you're using GCC, run:
+
+   ```c
+   gcc hello.c -o hello
+   ```
+
+2. **Run the Program**: After compiling successfully, execute the program by typing its name (without the `.c` extension) in the terminal/command prompt:
+
+   ```c
+   ./hello
+   ```
+
+3. **Observe the Output**: You should see "Hello, World!" printed on the screen, indicating that your program ran successfully.
+
+Now you've written and executed your first program in C!
+
+## How to Write C Code on Visual Studio Code using GCC Compiler
+
+1. **Install Visual Studio Code**: Download and install Visual Studio Code from the [official website](https://code.visualstudio.com/).
+
+2. **Install C/C++ Extension**: Open Visual Studio Code, go to the Extensions view (Ctrl+Shift+X), and search for and install the "C/C++" extension.
+
+3. **Open a C File**: Create a new file (Ctrl+N) and save it with a `.c` extension, for example, `example.c`.
+
+4. **Write Your C Code**: Inside the file, write your C code.
+
+   For example:
+
+   ```c
+   #include <stdio.h>
+
+   int main() {
+       printf("Hello, World!\n");
+       return 0;
+   }
+   ```
+
+5. **Compile Your Code**: Press Ctrl+Shift+B to open the command palette, type "Tasks: Run Build Task", and press Enter. Then, select "gcc.exe build active file" to compile your code using GCC.
+
+6. **Run Your Program**: After successfully compiling, you'll see the executable file in the same directory. Open a terminal (Ctrl+\`) and run the executable by typing `.\example.exe` (replace `example` with your file name).
+
+7. **View Output**: The output of your C program will be displayed in the terminal.
+
+Now you can write and compile C code on Visual Studio Code using GCC compiler.
+
+
+***Some usefull links to help you***
+
+1. [How to Install C and C++ Compilers on Windows - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
+2. [How to Install Xcode Command Line Tools on a Mac](https://www.freecodecamp.org/news/install-xcode-command-line-tools/)
+3. [Installing a Supported Compiler - Code::Blocks Wiki](https://wiki.codeblocks.org/index.php/Installing_a_supported_compiler)
+4. [Getting Started with Visual Studio Code](https://code.visualstudio.com/learn/get-started/basics)
+5. [How to Write And Run C and C++ Code in Visual Studio Code](https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/#:~:text=Simply%20open%20VS%20Code%2FVS,in%20the%20upper%20right%20corner.)
+6. [Step By Step Guide: How to set up visual studio code for C and C++ programming](https://dev.to/narottam04/step-by-step-guide-how-to-set-up-visual-studio-code-for-c-and-c-programming-2021-1f0i)
+7. [Enhance Your C/C++ Development: Top VS Code Extensions for Maximized Productivity](https://medium.com/@mehmet-mert-gunduz/enhance-your-c-c-development-top-vs-code-extensions-for-maximized-productivity-a3a2a968d628)

@@ -1,5 +1,5 @@
 #include <stdio.h>
-//numbers from the keyboard and print their sum.
+//Numbers from the keyboard and print their sum.
 int main(void){
 
     int a, b;
