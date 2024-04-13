@@ -88,7 +88,7 @@ CTestTestfile.cmake
 _deps
 *build*
 *.vscode*
-*.vscode
+.vscode*
 out/build/
 
 [Dd][Uu][Ii][Ll][Bb]/
