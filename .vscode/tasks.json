@@ -1,0 +1,43 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "Build whit GCC",
+			"command": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g3",
+				"-Wall",
+				"${file}",
+				"-o",
+				"${fileDirname}\\rooster.exe"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "compiler: C:\\msys64\\mingw64\\bin\\gcc.exe"
+		},
+		{
+			"type": "shell",
+			"label": "Run whit GCC",
+			"command": "C:\\msys64\\mingw64\\bin\\gcc.exe -fdiagnostics-color=always -g3 -Wall \"${file}\" -o \"${fileDirname}\\rooster.exe\" && \"${fileDirname}\\rooster.exe\"",
+			 
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+
+			"detail": "compiler: C:\\msys64\\mingw64\\bin\\gcc.exe"
+		}
+	]
+}
