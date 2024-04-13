@@ -88,6 +88,7 @@ CTestTestfile.cmake
 _deps
 *build*
 *.vscode*
+*.vscode
 out/build/
 
 [Dd][Uu][Ii][Ll][Bb]/
@@ -268,3 +269,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,python,cmake
+
+*.exe
+*.a.exe
