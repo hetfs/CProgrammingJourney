@@ -1,8 +1,0 @@
-https://www.scaler.com/topics/c/c-string-declaration/
-
-Operators in C https://www.scaler.com/topics/c/operators-in-c/
-
-Bitwise Operators in C https://www.scaler.com/topics/c/bitwise-operators-in-c/
-
-Introduction to C / C++ Programming
-Looping Constructs https://www.cs.uic.edu/~jbell/CourseNotes/CPlus/Looping.html
