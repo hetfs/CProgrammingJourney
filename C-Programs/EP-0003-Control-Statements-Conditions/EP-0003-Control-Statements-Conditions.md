@@ -1,6 +1,6 @@
 # Control Statements and Conditions in C Programming
 
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
 
 ## Introduction
 
@@ -286,3 +286,7 @@ Understanding `break`, `continue`, and `default`
               printf("Invalid grade\n");
       }
       ```
+
+> [**Go To Lab 0003 Contros Statments**](Lab-0003-Controls-Statments-Condions.md)
+>
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)

@@ -1,6 +1,6 @@
 # Introduction to C Language
 
-[*C Progrmming Journey*](../../README.md#cprogrammingjourney)
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
 
 The C programming language is a general-purpose, high-level programming language known for its efficiency, flexibility, and portability, developed by Dennis Ritchie in 1972 at AT&T Bell Laboratories USA, is widely recognized as the foundation for numerous advanced programming languages Known for its efficiency and low-level access to hardware, C is ideal for system programming, embedded systems, and complex data manipulation software . Key features include portability, efficiency, and structured programming support. C finds applications in operating systems, embedded systems, desktop and mobile applications, game development, database systems, and more.
 C has influenced many other programming languages, including C++, Java, and Python, making it a foundational language in computer science education and software development.
@@ -746,6 +746,6 @@ To compile a C program in Visual Studio Code's built-in terminal, follow these s
 
 By following these steps, you can compile and run your C program directly from VS Code's built-in terminal.
 
-[**Lab 0001-Introduction-to-C**](<Lab 0001-Introduction-to-C.md>)
-
-[*C Progrmming Journey*](../../README.md#cprogrammingjourney)
+> [**Go To Lab 0001-Introduction-to-C**](<Lab 0001-Introduction-to-C.md>)
+>
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)

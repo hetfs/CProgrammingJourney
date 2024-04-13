@@ -1,6 +1,6 @@
 # Reading Comprehension
 
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
 
 Here are some questions to deepen your understanding of control statements in C:
 
@@ -546,4 +546,4 @@ Here are some questions to deepen your understanding of control statements in C:
    }
    ```
 
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)

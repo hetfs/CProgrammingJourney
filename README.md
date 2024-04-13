@@ -17,7 +17,9 @@ Comprehensive C programming repository, designed to take you from a beginner to 
 5. **Comprehensive Resources:** Access additional learning materials, including articles, tutorials, and external references, to supplement your learning journey.
 6. **Community Support:** Join our vibrant community of learners to ask questions, share insights, and collaborate on projects.
 
-## ![CProgrammingJourney](/Images/CProgrammingJourney.png)
+## C Programming Journey
+
+![C Programming Journey](/Images/CProgrammingJourney.png)
 
 Get started today and embark on your journey to becoming a proficient C programmaer!
 Whether you're interested in application development, system programming, or algorithmic problem-solving, this repository will equip you with the knowledge and skills needed to succeed in the world of C programming.

@@ -1,6 +1,6 @@
 # Control Statements (Looping)
 
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
 
 ## Introduction
 
@@ -279,6 +279,6 @@ Remember, while these statements offer flexibility, they should be used judiciou
 Understanding when and how to use these jump statements is crucial for writing clear, efficient, and maintainable code.
 Introduction to C Programming [Looping Constructs](https://www.cs.uic.edu/~jbell/CourseNotes/C_Programming/Looping.html#)
 
-[Lab-0004-Control-Statements-Looping](Lab-0004-Control-Statements-Looping.md)
-
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+> [Go To Lab 0004 Control Statements Looping](Lab-0004-Control-Statements-Looping.md)
+>
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)

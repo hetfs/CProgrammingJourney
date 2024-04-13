@@ -1,6 +1,6 @@
 # Elements of C Language
 
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
 
 The elements of the C programming language encompass various components necessary for constructing C programs [[1](https://studyopedia.com/c/c-introduction/)]. Understanding these elements is crucial for writing C programs effectively and efficiently.These elements include:
 
@@ -1180,6 +1180,6 @@ In conclusion, strings in C are declared using character arrays, which are a lin
 
 More about C Strings in Character Constants [[1]](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Strings.html) [[2]](https://www.cita.utoronto.ca/~merz/intel_f10b/main_for/mergedProjects/lref_for/source_files/pgcchcst.htm) [[3]](https://www.scaler.com/topics/c/constants-in-c/)
 
-[**Lab-0002-Element-of-C-Prigramming-Languge**](Lab-0002-Element-of-C-Prigramming-Languge.md)
-
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+> [**Go To Lab 0002 Element of C Prigramming**](Lab-0002-Element-of-C-Prigramming-Languge.md)
+>
+> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
