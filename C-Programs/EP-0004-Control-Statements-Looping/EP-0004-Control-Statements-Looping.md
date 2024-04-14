@@ -1,6 +1,6 @@
 # Control Statements (Looping)
 
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
 
 ## Introduction
 
@@ -281,4 +281,4 @@ Introduction to C Programming [Looping Constructs](https://www.cs.uic.edu/~jbell
 
 > [Go To Lab 0004 Control Statements Looping](Lab-0004-Control-Statements-Looping.md)
 >
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)

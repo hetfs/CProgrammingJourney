@@ -1,6 +1,6 @@
 # Keywords in C Language FAQs
 
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+[***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
 
 Below are some of the most frequently asked questions about the list of keywords in C programming:
 
@@ -675,4 +675,4 @@ int main() {
 
 This code takes Mr. Harish's basic salary as input, calculates the DA and HRA based on the given percentages, and then computes the gross salary by adding the basic salary, DA, and HRA together.
 
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
+[***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)

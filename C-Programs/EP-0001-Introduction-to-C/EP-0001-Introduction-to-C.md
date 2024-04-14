@@ -1,6 +1,6 @@
 # Introduction to C Language
 
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
 
 The C programming language is a general-purpose, high-level programming language known for its efficiency, flexibility, and portability, developed by Dennis Ritchie in 1972 at AT&T Bell Laboratories USA, is widely recognized as the foundation for numerous advanced programming languages Known for its efficiency and low-level access to hardware, C is ideal for system programming, embedded systems, and complex data manipulation software . Key features include portability, efficiency, and structured programming support. C finds applications in operating systems, embedded systems, desktop and mobile applications, game development, database systems, and more.
 C has influenced many other programming languages, including C++, Java, and Python, making it a foundational language in computer science education and software development.
@@ -748,4 +748,4 @@ By following these steps, you can compile and run your C program directly from V
 
 > [**Go To Lab 0001-Introduction-to-C**](<Lab 0001-Introduction-to-C.md>)
 >
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)

@@ -1,6 +1,6 @@
 # Reading Comprehension
 
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
 
 1. **Introduction to the C language:**
    - What are the key characteristics of the C programming language?
@@ -250,4 +250,4 @@
 
 **Ex3_function_to_calcule_sum**: Simple program to calculate the sum of two integers and print the resul.
 
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)

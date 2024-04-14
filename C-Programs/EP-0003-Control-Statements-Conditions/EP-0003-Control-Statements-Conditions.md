@@ -1,6 +1,6 @@
 # Control Statements and Conditions in C Programming
 
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
 
 ## Introduction
 
@@ -289,4 +289,4 @@ Understanding `break`, `continue`, and `default`
 
 > [**Go To Lab 0003 Contros Statments**](Lab-0003-Controls-Statments-Condions.md)
 >
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)

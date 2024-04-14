@@ -1,6 +1,6 @@
 # Reading Comprehension
 
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
 
 Reading comprehension questions related to for loops, while loops, and do-while loops in C:
 
@@ -333,4 +333,4 @@ Reading comprehension questions related to for loops, while loops, and do-while 
      }
      ```
 
-> [***Back To C Programming Menu***](../../README.md#c-programming-journey)
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
