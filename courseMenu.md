@@ -1,6 +1,6 @@
 # C PROGRAMMING COURSE MENU
 
-[![C Programming Journey](Images/CProgrammingJourney.png)](courseMenu.md)
+[![C Programming Journey](Images/CProgrammingJourney.png)](README.md)
 
 [**EP-0001-Introduction-to-C**](C-Programs/EP-0001-Introduction-to-C/EP-0001-Introduction-to-C.md)
 
