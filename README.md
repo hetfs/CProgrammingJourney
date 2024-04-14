@@ -26,4 +26,4 @@ Whether you're interested in application development, system programming, or alg
 
 ---
 
-[**C PROGRAMMING COURSE MENU**](coursMenu.md#c-programming-cours-menu)
+[**C PROGRAMMING COURSE MENU**](courseMenu.md#c-programming-cours-menu)
