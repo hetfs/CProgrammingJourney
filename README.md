@@ -1,6 +1,6 @@
 # C Programming Journey: From Beginner to Advanced
 
-![Images/C-roadmap](/Images/C-roadmap.png)
+[![Images/C-roadmap](/Images/C-roadmap.png)](courseMenu.md)
 
 This repository serves as a comprehensive guide for individuals aiming to master the C programming language. With a structured learning approach, hands-on projects, interactive examples, problem-solving exercises, and a wealth of additional resources, it caters to learners at all levels. Whether you're a novice or seasoned programmer, this repository offers a pathway to proficiency in C programming, covering application development, system programming, and algorithmic problem-solving. Join our community today and embark on your journey to becoming a proficient C programmer!
 
@@ -19,7 +19,7 @@ Comprehensive C programming repository, designed to take you from a beginner to 
 
 ## C Programming Journey
 
-![C Programming Journey](/Images/CProgrammingJourney.png)
+[![C Programming Journey](/Images/CProgrammingJourney.png)](courseMenu.md)
 
 Get started today and embark on your journey to becoming a proficient C programmaer!
 Whether you're interested in application development, system programming, or algorithmic problem-solving, this repository will equip you with the knowledge and skills needed to succeed in the world of C programming.
