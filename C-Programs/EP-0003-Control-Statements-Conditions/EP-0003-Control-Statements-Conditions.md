@@ -166,7 +166,7 @@ if (x > 10) {
 
 In C programming, the switch case statement is a control flow statement used to select one choice among multiple options based on the value of a given expression. It provides an efficient way to write code when there are multiple conditions to be tested against a single variable. The switch statement evaluates the expression once and then compares the resulting value to the values of the case labels. If a match is found, the corresponding block of code is executed until a break statement is encountered or until the end of the switch block. If no matching case is found, the default case (if provided) is executed, or the switch block exits. Switch case statements improve code readability and maintainability, especially when there are multiple options to consider.
 
-## Syntax of Switch Case in C
+**Syntax of Switch Case in C**:
 
 The syntax of a switch case statement in C is as follows:
 
@@ -231,10 +231,6 @@ This code demonstrates the use of a switch statement in C. It prompts the user t
 
 **Drill Note**:
 > Regular practice is essential for mastering programming concepts. Start with simple exercises and progress to more complex tasks. Without consistent practice, programming skills may deteriorate over time.
-
-[Lab-0003-Controls-Statments-Condions](Lab-0003-Controls-Statments-Condions.md)
-
-[*C Programming Journey*](../../README.md#cprogrammingjourney)
 
 **Difference between break and continue statement in C**:
 
