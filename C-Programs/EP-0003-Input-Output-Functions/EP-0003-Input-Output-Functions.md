@@ -641,6 +641,6 @@ Prefix and postfix increment/decrement operators have a crucial difference in th
         } 
         ```
 
-> [**Go To Lab-0005-Input-Output-Functions**](Lab-0005-Input-Output-Functions.md)
+> [**Go To Lab-0003-Input-Output-Functions**](Lab-0003-Input-Output-Functions.md)
 >
 > [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
