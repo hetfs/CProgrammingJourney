@@ -1,5 +1,7 @@
 # Input Output (I/O) functions in C
 
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
+
 Input Output (I/O) functions in C are used for handling input and output operations in programs. They facilitate communication between the program and external devices such as the keyboard, screen, files, and printers.
 
 These functions include `printf()` and `scanf()` for formatted output and input, respectively, which are commonly used for console-based interactions. Additionally, there are functions like `fprintf()` and `fscanf()` for file-based input and output operations.
@@ -618,22 +620,27 @@ Prefix and postfix increment/decrement operators have a crucial difference in th
 *Here are example programs for each*:
 
     ```c
-    
-    #include<stdio.h>
+
+        #include<stdio.h>
 
         int main() {
-            int x = 5;
-            printf("Postfix Increment Example:\n");
-            printf("Original value of x: %d\n", x);
-            printf("Incrementing x: %d\n", x++); // Using x's value and then incrementing it
-            printf("Updated value of x: %d\n", x);
-            
-            int y = 10;
-            printf("\nPostfix Decrement Example:\n");
-            printf("Original value of y: %d\n", y);
-            printf("Decrementing y: %d\n", y--); // Using y's value and then decrementing it
-            printf("Updated value of y: %d\n", y);
 
-            return 0; 
-    } 
-    ```
+        int x = 5;
+        printf("Postfix Increment Example:\n");
+        printf("Original value of x: %d\n", x);
+        printf("Incrementing x: %d\n", x++); // Using x's value and then incrementing it
+        printf("Updated value of x: %d\n", x);
+
+        int y = 10;
+        printf("\nPostfix Decrement Example:\n");
+        printf("Original value of y: %d\n", y);
+        printf("Decrementing y: %d\n", y--); // Using y's value and then decrementing it
+        printf("Updated value of y: %d\n", y);
+
+        return 0; 
+        } 
+        ```
+
+> [**Go To Lab-0005-Input-Output-Functions**](Lab-0005-Input-Output-Functions.md)
+>
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)

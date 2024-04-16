@@ -1,5 +1,7 @@
 # Reading Comprehension
 
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
+
 1. What are the main categories of Input/Output (I/O) functions available in the C programming language?
 2. How do formatted and unformatted I/O functions differ in C? Provide examples of each.
 3. Explain the purpose of printf() and scanf() functions in C. How are they used for output and input operations, respectively?
@@ -49,3 +51,5 @@
    - perror() and strerror() functions are used for error reporting. perror() prints a descriptive error message to the standard error stream, while strerror() returns a string describing the error code passed to it.
 
 These explanations provide a comprehensive overview of the concepts and functions related to Input/Output operations in C.
+
+> [***Back To C Programming Menu***](../../courseMenu.md#c-programming-course-menu)
