@@ -1,4 +1,4 @@
-# Learning C Programming
+# C Programming
 
 Welcome to the world of C programming! In this guide, we will explore the rich history and enduring impact of the C programming language, from its origins at Bell Labs to its significant role in modern computing.
 
