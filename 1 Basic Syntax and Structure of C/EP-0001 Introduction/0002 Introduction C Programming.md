@@ -10,7 +10,7 @@ C is a general-purpose programming language developed by Dennis Ritchie in the e
 
 ## Origins and Development
 
-C emerged from the need for a versatile programming language capable of developing the Unix operating system. Dennis Ritchie, building on concepts from earlier languages like B and BCPL, designed C to offer robust typing, structured programming, and efficient memory management. This innovation allowed Unix to be completely rewritten in C, significantly enhancing its efficiency and portability.
+C emerged from the need for a versatile programming language capable of developing the Unix operating system. **Dennis Ritchie**, building on concepts from earlier languages like `B` and `BCPL`, designed C to offer robust typing, structured programming, and efficient memory management. This innovation allowed Unix to be completely rewritten in C, significantly enhancing its efficiency and portability.
 
 ---
 
