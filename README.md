@@ -1,14 +1,18 @@
+[![C Programming Journey](/Images/CProgrammingJourney.png)](courseMenu.md)
+
 # C Programming Journey: From Beginner to Advanced
 
-[![Images/C-roadmap](/Images/C-roadmap.png)](courseMenu.md)
+Get started today and embark on your journey to becoming a proficient C programmer!
+Whether you're interested in application development, system programming, or algorithmic problem-solving, this repository will equip you with the knowledge and skills needed to succeed in C programming.
+This repository is a complete resource for anyone looking to master the C programming language. It offers a structured learning pathway that includes hands-on projects, interactive examples, and problem-solving exercises, making it suitable for learners of all levels. Whether you're a beginner or an experienced developer, you will find valuable content that covers application development, system programming, and algorithmic problem-solving. Join our community today and start your journey toward becoming a skilled C programmer!
 
-This repository serves as a comprehensive guide for individuals aiming to master the C programming language. With a structured learning approach, hands-on projects, interactive examples, problem-solving exercises, and a wealth of additional resources, it caters to learners at all levels. Whether you're a novice or a seasoned programmer, this repository offers a pathway to proficiency in C programming, covering application development, system programming, and algorithmic problem-solving. Join our community today and embark on your journey to becoming a proficient C programmer!
+---
 
-**Repository Description:**
+## Repository Description
 
 Comprehensive C programming repository, designed to take you from a beginner to an advanced level with practical, hands-on projects! Whether you're just starting your programming journey or looking to deepen your C skills, this repository has something for everyone.
 
-**Key Features:**
+### Key Features
 
 1. **Structured Learning:** Our repository is organized into clear, easy-to-follow sections, starting from the fundamentals and progressing to more advanced topics.
 2. **Hands-On Projects:** Dive into real-world projects that reinforce your understanding of C programming concepts and help you build practical skills.
@@ -17,11 +21,13 @@ Comprehensive C programming repository, designed to take you from a beginner to 
 5. **Comprehensive Resources:** Access additional learning materials, including articles, tutorials, and external references, to supplement your learning journey.
 6. **Community Support:** Join our vibrant community of learners to ask questions, share insights, and collaborate on projects.
 
-## C Programming Journey Overview
+---
+
+## 1 Basic Syntax and Structure of C Overview
 
 Learning C programming comprehensively involves progressing from basic concepts to more advanced topics.
 
-Here's a structured outline for learning C programming, building from basic concepts to advanced topics:
+Here's a structured outline for learning C programming, building from basic concepts to advanced topics: 
 
 ### EP-0001: Introduction
 An overview of the C programming language, its history, and applications. This section introduces the development environment and tools necessary for writing and executing C programs.
@@ -64,12 +70,5 @@ This section explains the role of preprocessor directives in C, such as `#includ
 
 ### EP-0014: Standard Library in C
 This section introduces the C Standard Library and covers commonly used functions and libraries. It provides insight into using built-in functions for various tasks, enhancing programming efficiency.
-
-## C Programming Journey
-
-[![C Programming Journey](/Images/CProgrammingJourney.png)](courseMenu.md)
-
-Get started today and embark on your journey to becoming a proficient C programmer!
-Whether you're interested in application development, system programming, or algorithmic problem-solving, this repository will equip you with the knowledge and skills needed to succeed in C programming.
 
 ---
