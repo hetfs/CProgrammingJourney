@@ -73,5 +73,3 @@ Get started today and embark on your journey to becoming a proficient C programm
 Whether you're interested in application development, system programming, or algorithmic problem-solving, this repository will equip you with the knowledge and skills needed to succeed in C programming.
 
 ---
-
-## [C PROGRAMMING COURSE MENU](courseMenu.md#c-programming-cours-menu)
