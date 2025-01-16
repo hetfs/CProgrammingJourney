@@ -1,0 +1,48 @@
+# Learning Control Statements and Looping in C (Basic Level)
+
+1. **Introduction to Control Statements**:
+   - Understanding the role of control statements in C programming.
+   - Differentiating between selection and iteration control statements.
+   - Exploring how control statements influence the flow of execution in a program [[1](https://www.programiz.com/c-programming/if-else-statement)].
+
+2. **If-Else Statements**:
+   - Learning the syntax and usage of if-else statements for decision-making.
+   - Exploring the concept of conditional execution based on boolean expressions.
+   - Understanding nested if-else statements for complex decision structures [[1](https://www.programiz.com/c-programming/if-else-statement)].
+
+3. **Switch-Case Statements**:
+   - Introduction to switch-case statements for multiple branching.
+   - Understanding the syntax and usage of switch-case statements.
+   - Exploring how switch-case statements improve code readability and efficiency compared to nested if-else structures [[2](https://www.geeksforgeeks.org/switch-statement-cc/)].
+
+4. **Introduction to Looping**:
+   - Understanding the concept of looping for repetitive execution of code.
+   - Exploring the different types of loops in C: while, do-while, and for loops.
+   - Learning the syntax and usage of each loop type for different scenarios [[3](https://www.programiz.com/c-programming/c-loops)].
+
+5. **While Loop**:
+   - Learning the syntax and usage of while loops for conditional iteration.
+   - Understanding how while loops execute code repeatedly until a condition becomes false.
+   - Exploring examples of while loops for tasks such as input validation and iterative algorithms [[3](https://www.programiz.com/c-programming/c-loops)].
+
+6. **Do-While Loop**:
+   - Introduction to do-while loops for post-test iteration.
+   - Learning the syntax and usage of do-while loops.
+   - Understanding the differences between while and do-while loops and when to use each [[3](https://www.programiz.com/c-programming/c-loops)].
+
+7. **For Loop**:
+   - Understanding the syntax and usage of for loops for iterative execution.
+   - Exploring the components of the for loop: initialization, condition, and update.
+   - Learning how to use for loops for tasks such as iterating over arrays and implementing numerical algorithms [[3](https://www.programiz.com/c-programming/c-loops)].
+
+8. **Nested Loops**:
+   - Introduction to nested loops for multiple levels of iteration.
+   - Understanding how to use nested loops for tasks such as matrix operations and pattern printing.
+   - Exploring examples of nested loops and their applications in programming [[3](https://www.programiz.com/c-programming/c-loops)].
+
+By mastering control statements and looping in C, you'll gain the ability to make decisions and execute repetitive tasks efficiently in your programs.
+
+## 🌐 Sources
+1. [Programiz - If-Else Statement in C](https://www.programiz.com/c-programming/if-else-statement)
+2. [GeeksforGeeks - Switch Statement in C/C++](https://www.geeksforgeeks.org/switch-statement-cc/)
+3. [Programiz - Loops in C](https://www.programiz.com/c-programming/c-loops)
