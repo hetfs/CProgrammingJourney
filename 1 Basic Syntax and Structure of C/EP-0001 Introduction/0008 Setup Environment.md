@@ -11,7 +11,7 @@ Before diving into coding, it's crucial to establish the right environment and g
 
 **Understand the Role of a Compiler**:
 
-- A compiler is essential for translating your written code into machine-readable instructions. It converts human-readable code into a format understandable by the computer. Familiarize yourself with the compiler's functions and how it processes your code.
+- A compiler is essential for translating your written code into machine-readable instructions. It converts human-readable code into a format that is understandable by the computer. Familiarize yourself with the compiler's functions and how it processes your code.
 
 ## How to Install GCC and Clang on Windows?
 
@@ -28,15 +28,15 @@ Before diving into coding, it's crucial to establish the right environment and g
    pacman -S mingw-w64-x86_64-gcc for 64-bit 
    ```
 
-3. **Install the Debugger (GDB)**:If using a 64-bit system, apply the command:
+3. **Install the Debugger (GDB)**: If using a 64-bit system, apply the command:
 
    ```bash
    pacman -S mingw-w64-x86_64-gdb
    ```
 
-4. **Add Directory to Environment Variables**:Open the file explorer and navigate to the appropriate directory based on the system architecture. Copy the directory path. Access Advanced System Settings, go to Environment Variables, and edit the Path variable by adding the copied directory.
+4. **Add Directory to Environment Variables **: Open the file explorer and navigate to the appropriate directory based on the system architecture. Copy the directory path. Access Advanced System Settings, go to Environment Variables and edit the Path variable by adding the copied directory.
 
-5. **Check the Installation**:Verify the successful installation by opening the terminal, PowerShell, or CMD and checking the versions of GCC, G++, and GDB using gcc --version, g++ --version, and gdb --version commands, respectively.
+5. **Check the Installation **: Verify the successful installation by opening the terminal, PowerShell, or CMD and checking the versions of GCC, G++, and GDB using the gcc—-version, g++—-version, and gdb—-version commands, respectively.
 
 ## Install GCC and Clang on Mac?
 
