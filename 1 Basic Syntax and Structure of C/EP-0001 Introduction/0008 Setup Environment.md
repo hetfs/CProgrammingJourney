@@ -1,19 +1,4 @@
-# Install Compilers on Various Operating Systems
-
-Development Environment for C Programming on Your Local Machine.
-Before diving into coding, it's crucial to establish the right environment and grasp the structure of a C program.
-
-![Development Environment](/Images/DevEnviroment.png)
-
-**Install the Necessary Tools**:
-
-- Begin by installing a text editor where you'll write your code. Start with a basic editor like Notepad and progress to more advanced options such as Visual Studio Code.
-
-**Understand the Role of a Compiler**:
-
-- A compiler is essential for translating your written code into machine-readable instructions. It converts human-readable code into a format that is understandable by the computer. Familiarize yourself with the compiler's functions and how it processes your code.
-
-## How to Install GCC and Clang on Windows?
+# How to Install GCC and Clang on Windows?
 
 - **Visual C++ Compiler**: Microsoft's official C++ compiler bundled with Visual Studio IDE[[Here](https://visualstudio.microsoft.com/vs/features/cplusplus/)].
 - **MinGW-w64 Compiler**: A free and open-source compiler that provides GCC (GNU Compiler Collection) for Windows, allowing developers to compile C and C++ code [[Here](https://winlibs.com/)].
