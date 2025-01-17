@@ -73,6 +73,19 @@ The compilation process in C transforms human-readable source code into machine-
 5. **Optimization:** Improves code efficiency by removing redundancies and applying performance enhancements.
 6. **Code Generation:** Produces platform-specific machine code from the intermediate representation.
 
+![Development Environment](/Images/DevEnviroment.png)
+
+Development Environment for C Programming on Your Local Machine.
+Before diving into coding, it's crucial to establish the right environment and grasp the structure of a C program.
+
+**Install the Necessary Tools**:
+
+- Begin by installing a text editor where you'll write your code. Start with a basic editor like Notepad and progress to more advanced options such as Visual Studio Code.
+
+**Understand the Role of a Compiler**:
+
+- A compiler is essential for translating your written code into machine-readable instructions. It converts human-readable code into a format that is understandable by the computer. Familiarize yourself with the compiler's functions and how it processes your code.
+
 ---
 
 By following this structured approach, the C compilation process ensures that the code is syntactically correct, semantically sound, and capable of execution on the target platform. This systematic breakdown supports robust error handling, modular programming, and optimized runtime performance.
