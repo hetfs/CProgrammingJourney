@@ -52,7 +52,7 @@ int add(int a, int b) {
    return a + b;
 }
 ```
-- The resulting assembly code might look like this:
+The resulting assembly code might look like this:
   ```assembly
   add:
       mov eax, [ebp+8]
