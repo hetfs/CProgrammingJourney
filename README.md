@@ -40,70 +40,98 @@ This repository is a one-stop destination for learning C programming, from the b
 
 This repository follows a structured outline to guide you from beginner to advanced levels in C programming. Here’s what you’ll learn:
 
+---
+
 #### **EP-0001: Introduction to C Programming**
 
 - **Overview**: Learn about the history, significance, and applications of C.
 - **Development Environment**: Set up your tools (compiler, IDE, text editor) and write your first C program ("Hello, World!").
+
+---
 
 #### **EP-0002: Data Types and Variables**
 
 - **Fundamental Data Types**: Explore `int`, `float`, `char`, `double`, and more.
 - **Variables and Constants**: Understand declaration, initialization, and scope.
 
+---
+
 #### **EP-0003: Operators and Expressions**
 
 - **Operators**: Learn about arithmetic, relational, logical, and bitwise operators.
 - **Expressions**: Understand operator precedence and type casting.
+
+---
 
 #### **EP-0004: Input-Output Functions**
 
 - **Standard I/O**: Master `printf()`, `scanf()`, and other I/O functions.
 - **Format Specifiers**: Learn how to format input and output effectively.
 
+---
+
 #### **EP-0005: Control Statements - Conditions**
 
 - **Decision-Making**: Use `if`, `else if`, `else`, and `switch` statements.
 - **Nested Conditions**: Understand how to handle complex decision-making.
+
+---
 
 #### **EP-0006: Control Statements - Looping**
 
 - **Loops**: Learn `for`, `while`, and `do-while` loops.
 - **Loop Control**: Use `break` and `continue` to manage loop execution.
 
+---
+
 #### **EP-0007: Functions in C**
 
 - **Modular Programming**: Understand function declaration, definition, and invocation.
 - **Recursion**: Explore recursive functions and their applications.
+
+---
 
 #### **EP-0008: Arrays**
 
 - **Single and Multi-Dimensional Arrays**: Learn declaration, initialization, and traversal.
 - **Array Operations**: Perform sorting, searching, and other common operations.
 
+---
+
 #### **EP-0009: Strings in C**
 
 - **String Handling**: Master string declaration, manipulation, and common functions.
 - **Character Arrays**: Understand how to work with sequences of characters.
+
+---
 
 #### **EP-0010: Pointers**
 
 - **Pointer Basics**: Learn declaration, dereferencing, and pointer arithmetic.
 - **Dynamic Memory**: Use `malloc()`, `calloc()`, `realloc()`, and `free()` for memory management.
 
+---
+
 #### **EP-0011: Structures**
 
 - **User-Defined Data Types**: Create and use structures to group related data.
 - **Nested Structures**: Understand how to work with complex data types.
+
+---
 
 #### **EP-0012: File Handling in C**
 
 - **File Operations**: Learn to open, read, write, and close files.
 - **Data Persistence**: Understand how to store and retrieve data from files.
 
+---
+
 #### **EP-0013: Preprocessor Directives**
 
 - **Directives**: Use `#include`, `#define`, `#ifdef`, and other preprocessor commands.
 - **Macros**: Understand how to define and use macros effectively.
+
+---
 
 #### **EP-0014: Standard Library in C**
 
