@@ -1,4 +1,4 @@
-# Logical Operators in C: A Comprehensive Guide for Expert Programmers
+# Logical Operators in C 
 
 Logical operators in C are fundamental for performing logical operations, enabling the combination of multiple conditions in decision-making constructs such as `if` statements and loops. These operators yield a boolean result (`true` for non-zero values and `false` for zero). This guide provides an in-depth look at logical operators, their usage, and best practices for expert C programmers.
 
