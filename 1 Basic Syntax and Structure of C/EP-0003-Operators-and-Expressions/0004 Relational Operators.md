@@ -1,12 +1,12 @@
 # Relational Operators in C
 
-Relational operators in C are essential for comparing two values, yielding a boolean result (`true` or `false`). These operators are crucial in decision-making processes, controlling the flow of loops, and implementing conditional logic. Understanding how to effectively use these operators will enhance your programming skills and enable you to write more robust and efficient code.
+Relational operators in C are fundamental constructs used to compare two values, yielding a boolean result (`true` or `false`). These operators are indispensable for decision-making processes, controlling loop flow, and implementing conditional logic. A deep understanding of relational operators is essential for writing efficient, robust, and maintainable C programs.
 
 ---
 
 ## **Primary Relational Operators**
 
-Here are the primary relational operators available in C, along with their functionality:
+Relational operators in C are used to compare two operands. Here are the primary relational operators along with their functionality:
 
 1. **Equal to (`==`)**: Checks if two operands are equal.
 2. **Not equal to (`!=`)**: Checks if two operands are not equal.
@@ -19,7 +19,7 @@ Here are the primary relational operators available in C, along with their funct
 
 ## **Example Code**
 
-Here’s an example demonstrating the use of relational operators:
+Below is an example demonstrating the use of relational operators in C:
 
 ```c
 #include <stdio.h>
@@ -84,7 +84,7 @@ int main() {
 
 ## **Precedence and Associativity of Relational Operators**
 
-Understanding operator precedence and associativity is crucial for evaluating expressions correctly:
+Understanding the precedence and associativity of relational operators is crucial for evaluating expressions correctly:
 
 ### **1. Precedence**
 

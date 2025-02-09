@@ -9,6 +9,7 @@ Logical operators in C are fundamental for performing logical operations, enabli
 ### **1. Logical AND (`&&`)**
 
 - **Functionality**: Returns `true` if both operands are `true`.
+
 - **Example**:
   
   ```c
@@ -20,6 +21,7 @@ Logical operators in C are fundamental for performing logical operations, enabli
 ### **2. Logical OR (`||`)**
 
 - **Functionality**: Returns `true` if at least one operand is `true`.
+
 - **Example**:
   
   ```c
@@ -31,6 +33,7 @@ Logical operators in C are fundamental for performing logical operations, enabli
 ### **3. Logical NOT (`!`)**
 
 - **Functionality**: Inverts the boolean value of its operand.
+
 - **Example**:
   
   ```c
